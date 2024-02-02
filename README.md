@@ -3,5 +3,5 @@
 Para rodar o código utilize:
 
 ```
-python3 writevalues
+python3 writevalues.py
 ```
